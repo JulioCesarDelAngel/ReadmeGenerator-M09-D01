@@ -1,6 +1,6 @@
 #Readme Generator
 
-## DEscripción de la aplicacion
+## Descripción de la aplicación
 
 * Permite generar un archivo README  a partir de una plantilla de preguntas.
 * si el archivo "nuevoREADME.md" existe, lo elimina.
@@ -15,12 +15,12 @@
 
 ## Animación de la aplicación
 
-![Funcionamiento de la aplicación] (./assets/images/BannerReadmeGenerator.gif)
+![Funcionamiento de la aplicación] (https://github.com/JulioCesarDelAngel/ReadmeGenerator-M09-D01/tree/main/Develop/assets/images/BannerReadmeGenerator.gif)
 
 
 ## Captura de pantalla de la aplicación
 
-![Visualización de la aplicación](./assets/images/BannerReadmeGenerator.png)
+![Visualización de la aplicación](https://github.com/JulioCesarDelAngel/ReadmeGenerator-M09-D01/tree/main/Develop/assets/images/BannerReadmeGenerator.png)
 
 
 ## Referencias
