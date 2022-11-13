@@ -89,7 +89,7 @@ function createFile(fileName, data) {
 function init() {
     inquirer.prompt(questions)
         .then(function (answers){
-            console.log(answers);
+            //console.log(answers);
             let data = tool.generateMarkdown(answers);
 
             createFile('nuevoREADME.md', data);
